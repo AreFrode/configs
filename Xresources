@@ -1,0 +1,48 @@
+!! Colorscheme
+
+! special
+*.foreground: #FFFFFF
+*.background: #222222
+*.cursorColor: #afbfbf
+
+! black
+*.color0: #011627
+*.color8: #B1AFAE
+
+! red
+*.color1: #FE4450
+*.color9: #FE4450
+
+! green
+*.color2: #72F1B8
+*.color10: #72F1B8
+
+! yellow
+*.color3: #FEDE5D
+*.color11: #FEDE5D
+
+! blue
+*.color4: #03EDF9
+*.color12: #03EDF9
+
+! magenta
+*.color5: #FF7EDB
+*.color13: #FF7EDB
+
+! cyan
+*.color6: #03EDF9
+*.color14: #03EDF9
+
+! white
+*.color7: #FFFFFF
+*.color15: #FFFFFF
+
+!! Font
+URxvt.font: xft:Hack:style=Regular:size=11
+URxvt.boldFont: xft:Hack:style=Bold:size=11
+URxvt.italicFont: xft:Hack:style=Italic:size=11
+URxvt.boldItalicFont: xft:Hack:style=Bold Italic:size=11
+
+!! Appearance
+URxvt.transparent: true
+URxvt.shading: 35 
